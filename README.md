@@ -9,7 +9,7 @@ celestial_objects = {'Sirius':25, # Sirius is one of the brightest stars in the 
 for objects in celestial_objects:
     print(objects)
 
-for objects in celestial_objects.items():
+for objects in celestial_objects.items(): # for loop for indexing starts and units
     print(objects[0] + ":", objects[1], "solar units")
 
 luminosities = []
