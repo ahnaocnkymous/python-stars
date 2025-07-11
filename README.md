@@ -1,4 +1,5 @@
 # python-stars
+basic python code for Aerospace about start and their units
 celestial_objects = {'Sirius':25, # Sirius is one of the brightest stars in the night sky
                      'Andromeda Galaxy':1000000, # Andromeda Galaxy has a very high luminosity
                      'Jupiter':0.00006,# Jupiter reflects sunlight but has low intrinsic luminosity
